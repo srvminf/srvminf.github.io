@@ -1,0 +1,5 @@
+REG DELETE HKEY_CURRENT_USER\Software\Policies\Google /F
+
+REG DELETE HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google /F
+
+pause

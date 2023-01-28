@@ -1,0 +1,3 @@
+@ECHO ON
+
+sfc /scannow
